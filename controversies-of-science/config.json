@@ -1,0 +1,6 @@
+exports.organization = 'controversies-of-science'
+exports.application = 'a5e5b52d-c8b1-11e6-a734-122e0737977d'
+exports.clientId = 'b3U6pcX3zcixEeanNBIuBzeXfQ'
+exports.clientSecret = 'b3U6Wv93FFqUmI9X-blvznXrr7YwdUE'
+exports.tokenExpiration = 60000
+exports.logging = true

@@ -1,0 +1,370 @@
+{
+	"name": "Is it Possible to Increase the Rate of Innovation?",
+	"metacard": {
+		"name": "Is it Possible to Increase the Rate of Innovation?",
+		"author": {
+			"lastTimeOnline": "1985-04-12T23:20:50.52Z",
+			"bio": "(MC) Master of Controversies",
+			"avatar": "https://lh3.googleusercontent.com/-7pSD5TEGt4g/AAAAAAAAAAI/AAAAAAAAACI/Cqefb4i8T3E/photo.jpg?sz=50",
+			"userId": 0,
+			"email": "paradigmsareconstructed@gmail.com",
+			"username": "Chris Reeve"
+		},
+		"category": "example",
+		"publishDate": "1985-04-12T23:20:50.52Z",
+		"updateDate": "1985-04-12T23:20:50.52Z",
+		"summary": "We have an Unfortunate Tradition of Treating Our Best Scientific Critics as Cranks or Pseudoscientists / Yet there are Potential Answers to the Biggest Questions in Science which are Precluded by this Incremental Approach / Let Me Show You Some Examples of Promising Challenges to Textbook Theory",
+		"thumbnail": "dist/assets/img-desktop/get-big-things-done-small-1.0.jpg",
+		"url": "dist/assets/img-desktop/get-big-things-done-1.1.jpg"
+	},
+	"slides": [
+		{
+			"x": 0,
+			"scale": 15,
+			"y": 0,
+			"selector": "intro"
+		},
+		{
+			"x": 0,
+			"scale": 5,
+			"y": -4500,
+			"selector": "stephenson"
+		},
+		{
+			"x": 0,
+			"scale": 1.5,
+			"y": -6500,
+			"selector": "ineluctable"
+		},
+		{
+			"x": -1500,
+			"scale": 1.5,
+			"y": -6700,
+			"selector": "risk"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -5800,
+			"selector": "center-4"
+		},
+		{
+			"x": 1870,
+			"scale": 0.5,
+			"y": -6640,
+			"selector": "forgotten"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -5800,
+			"selector": "center-5"
+		},
+		{
+			"x": 1550,
+			"scale": 0.5,
+			"y": -5750,
+			"selector": "specialization"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -5800,
+			"selector": "center-6"
+		},
+		{
+			"x": 630,
+			"scale": 0.5,
+			"y": -4630,
+			"selector": "internet-era"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -4630,
+			"selector": "center-7"
+		},
+		{
+			"x": -300,
+			"scale": 1,
+			"y": -4300,
+			"selector": "get-big-things-done"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -4300,
+			"selector": "center-8"
+		},
+		{
+			"x": -1500,
+			"scale": 1,
+			"y": -4000,
+			"selector": "china"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -4300,
+			"selector": "center-9"
+		},
+		{
+			"x": 1600,
+			"scale": 2,
+			"y": -3530,
+			"selector": "get-big-things-done-fail"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -3000,
+			"selector": "stories-not-told"
+		},
+		{
+			"x": -1500,
+			"scale": 0.7,
+			"y": -2650,
+			"selector": "lightning"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -2650,
+			"selector": "center-12"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": -1830,
+			"selector": "future"
+		},
+		{
+			"x": 1700,
+			"scale": 0.7,
+			"y": -850,
+			"selector": "peratt-galaxies"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 200,
+			"selector": "center-14"
+		},
+		{
+			"x": 1620,
+			"scale": 0.7,
+			"y": 200,
+			"selector": "halton-arp"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 1550,
+			"selector": "center-15"
+		},
+		{
+			"x": 1600,
+			"scale": 1.2,
+			"y": 1550,
+			"selector": "gerrit-verschuur"
+		},
+		{
+			"x": 1850,
+			"scale": 0.5,
+			"y": 1920,
+			"selector": "gerrit-verschuur-cmb"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 1650,
+			"selector": "center-17"
+		},
+		{
+			"x": 0,
+			"scale": 1,
+			"y": 1650,
+			"selector": "earthquake-lights"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 2000,
+			"selector": "center-18"
+		},
+		{
+			"x": -1800,
+			"scale": 0.7,
+			"y": 2000,
+			"selector": "fermi-paradox"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 1020,
+			"selector": "center-19"
+		},
+		{
+			"x": -1500,
+			"scale": 0.7,
+			"y": 1020,
+			"selector": "lightning-to-space"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 0,
+			"selector": "center-20"
+		},
+		{
+			"x": -1700,
+			"scale": 1,
+			"y": 0,
+			"selector": "gel-cell-theory"
+		},
+		{
+			"x": -1700,
+			"scale": 0.5,
+			"y": 200,
+			"selector": "origin-of-life"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 280,
+			"selector": "center-22"
+		},
+		{
+			"x": 0,
+			"scale": 1.25,
+			"y": 280,
+			"selector": "peratt-petroglyphs"
+		},
+		{
+			"x": 0,
+			"scale": 0.7,
+			"y": 780,
+			"selector": "petroglyph-plasmas"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 2800,
+			"selector": "underground-city"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 4000,
+			"selector": "cranks"
+		},
+		{
+			"x": 0,
+			"scale": 2.5,
+			"y": 5500,
+			"selector": "futurism"
+		}
+	],
+	"footnotes": [
+		{
+			"selector": "stephenson",
+			"id": 1,
+			"markup": "<b>ineluctable:</b> <i>(adjective)</i> incapable of being evaded; inescapable.<br><br>All of the quotes at the top of this article come from an article written by science fiction author, Neal Stephenson.  <a href='http://www.worldpolicy.org/journal/fall2011/innovation-starvation' target='_blank'>That article</a> was written for the World Policy Institute.<br><br>Please note that the list of the graphic's list of scientific controversies is not intended to be comprehensive.  I've decided to limit the number of examples to avoid overwhelming people."
+		},
+		{
+			"selector": "lightning",
+			"id": 2,
+			"markup": "<a href='http://space.io9.com/lightning-mysterious-gamma-ray-bursts-1549723614' target='_blank'>io9</a>"
+		},
+		{
+			"selector": "lightning",
+			"id": 3,
+			"markup": "<a href='http://www.nasa.gov/home/hqnews/2005/mar/HQ_05070_radiation_belt.html#.VmYK11krIsM' target='_blank'>NASA</a>"
+		},
+		{
+			"selector": "lightning",
+			"id": 4,
+			"markup": "<a href='http://www.bbc.com/future/story/20120926-what-causes-lightening' target='_blank'>BBC Future</a>"
+		},
+		{
+			"selector": "peratt-galaxies",
+			"id": 5,
+			"markup": "<a href='http://www.plasma-universe.com/Galaxy_formation' target='_blank'>Ian Tresman's plasma universe wiki</a>.  This site was created because the wikipedia encyclopedia refused to acknowledge this peer-reviewed research."
+		},
+		{
+			"selector": "halton-arp",
+			"id": 6,
+			"markup": "Image is from this <a href='http://plazmauniverzum.hu/arp' target='_blank'>Hungarian plasma cosmology site</a>.  There is a technical analysis of Arp's claim <a href='http://www.astr.ua.edu/keel/galaxies/arp.html' target='_blank'>here</a>.  For a more broad view of this subject, see the excellent YouTube documentary, <a href='https://www.youtube.com/watch?v=IFFl9S39CTM' target='_blank'>Universe: The Cosmology Quest</a>."
+		},
+		{
+			"selector": "halton-arp",
+			"id": 7,
+			"markup": "I wouldn't normally advise using wikipedia to look up controversial subjects, but <a href='https://en.wikipedia.org/wiki/Halton_Arp' target='_blank'>this entry</a> is okay."
+		},
+		{
+			"selector": "gerrit-verschuur",
+			"id": 8,
+			"markup": "Paper at <a href='http://arxiv.org/abs/1002.1661' target='_blank'>arXiv.org</a>.  Verschuur has a couple of fantastic books on these subjects.  See his book, <i>The Invisible Universe</i>, where he emphasizes how astronomers initially considered radio waves from space either a hoax or a mistake.  His book, <i>Interstellar Matters</i>, contains a couple of chapters which in great detail explain how to read a radio astronomy paper.  With not much more than that, Verschuur's numerous IEEE papers will become accessible to most laypeople.  His papers on interstellar HI hydrogen and critical ionization velocities (CIV's) are particularly noteworthy because they appear to suggest that ionization is an ongoing process in space -- directly contradicting what is taught to astrophysicists today.  Verschuur frequently questions the use of the term 'cloud' to describe the interstellar matter structures, due to its unusually filamentary nature.  Although his publications do not directly raise the question of electricity in space (due to ongoing resistance to the idea amongst peer reviewers), it is clear to many that he is entertaining the notion."
+		},
+		{
+			"selector": "gerrit-verschuur",
+			"id": 9,
+			"markup": "<a href='http://news.discovery.com/space/cosmic-background-radiation-big-bang-120615.htm' target='_blank'>Discovery News</a>"
+		},
+		{
+			"selector": "gerrit-verschuur-cmb",
+			"id": 10,
+			"markup": "<a href='http://archive.wired.com/science/space/news/2007/11/big_bang' target='_blank'>Wired Magazine</a>"
+		},
+		{
+			"selector": "earthquake-lights",
+			"id": 11,
+			"markup": "Comes from <a href='http://www.q-mag.org/the-tangible-proof-of-earthquake-lights.html' target='_blank'>Alfred de Grazia's Magazine of Quantavolution</a>.  This research was originally published in German in <a href='http://www.spiegel.de/wissenschaft/natur/erdbebenlichter-erklaerung-fuer-blitze-aus-dem-boden-a-1035800.html' target='_blank'>Der Spiegel</a> on June 8, 2015.  It was translated from German by Anne-Marie de Grazia, the wife of the late Alfred de Grazia.  There are additional pictures in the German article."
+		},
+		{
+			"selector": "fermi-paradox",
+			"id": 12,
+			"markup": "Source: <a href='http://www.holoscience.com/wp/other-stars-other-worlds-other-life/' target='_blank'>Wal Thornhill's Holoscience site</a>.  From wikipedia: 'The Fermi paradox — or Fermi's paradox — is the apparent contradiction between high estimates of the probability of the existence of extraterrestrial civilizations, such as in the Drake equation, and the lack of evidence for such civilizations.'  Wal's approach would neatly explain the paradox because electromagnetic communications are commonly obstructed by plasma double layers like our own ionosphere.  In the configuration proposed, the planet would be deeply embedded within the star's electromagnetic envelope -- hence we'd struggle to observe these radio signals.  The whole idea might sound like a wacky, unsupported claim, but in fact, Dwardu Cardona has published a number of excellent books which dedicate a few thousand pages filled with references to supporting these claims.  I cannot recommend enough Dwardu's books."
+		},
+		{
+			"selector": "lightning-to-space",
+			"id": 13,
+			"markup": "These snapshots actually come from two separate links -- the first is from <a href='http://www.rense.com/general68/gint.htm' target='_blank'>Giant Lightning From Earth To Space from Rense.com</a> and the second is from <a href='https://www.thunderbolts.info/tpod/2005/arch05/051110sprite.htm' target='_blank'>Giant Lightning to Space at thunderbolts.info</a>."
+		},
+		{
+			"selector": "gel-cell-theory",
+			"id": 14,
+			"markup": "More information at <a href='http://faculty.washington.edu/ghp/'' target='_blank'>Gerald Pollack's University of Washington pages</a>.  Gerald Pollack is an excellent speaker.  See his many talks on YouTube."
+		},
+		{
+			"selector": "origin-of-life",
+			"id": 15,
+			"markup": "a href='http://faculty.washington.edu/ghp/images/stories/pubPDF/2005-Trevors_Pollack-Origin_of_life_hydrogel.pdf' target='_blank'>Hypothesis: the origin of life in a hydrogel environment, by Jack T. Trevorsa and Gerald H. Pollack</a>"
+		},
+		{
+			"selector": "peratt-petroglyphs",
+			"id": 16,
+			"markup": "This paper can be tricky to track down.  The best option might be to fill out the form <a href='http://www.everythingselectric.com/product/anthony-peratt-z-pinch-aurora/' target='_blank'>here</a>."
+		},
+		{
+			"selector": "petroglyph-plasmas",
+			"id": 17,
+			"markup": "I created this explanatory graphic based upon Peratt's paper.  These are morphologies (shapes) that electricity takes when it is conducted over gas (more properly termed plasma) at extremely high charge densities.  If you look carefully at the last morphology, the central ring is the source of what is called synchrotron radiation.  Peratt explains that this would have been very dangerous radiation.  The 2d squatter man drawing appears to follow from the luminosity which results from viewing the 3d form edge-wise."
+		},
+		{
+			"selector": "center-4",
+			"id": 18,
+			"markup": "Top-most background image comes from The Jetson's cartoon"
+		},
+		{
+			"selector": "future",
+			"id": 19,
+			"markup": "Awesome futuristic cityscape artwork by <a href='http://peteamachree.deviantart.com/art/future-city-1-187502843' target='_blank'>PeteAmachree at Deviant Art</a>"
+		},
+		{
+			"selector": "underground-city",
+			"id": 20,
+			"markup": "Awesome underground cityscape artwork by <a href='http://cyberkolbasa.deviantart.com/art/underground-city-357211806' target='_blank'>cyberkolbasa at Deviant Art</a>"
+		}
+	]
+}
